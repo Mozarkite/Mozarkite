@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub! This is where I put up my projects and use GitHub as a portofolio display
+Welcome to my GitHub! This is where I put up my projects and use GitHub as a Display of my Data Analyst Portofolio
 
 - 🎓 I'm Mihai Bartha, currently a 3rd-year Computer Science Infrastructure student at TU Dublin 💻  
 - 📘 Passionate about data, Analysis, and solving problems through insights and code 
@@ -8,9 +8,12 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a por
 
 ### 🔗 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mihai-bartha-492018340)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianmihaibartha@gmail.com)
+
+
 ---
 
-### 📈 This week I spent my time on  
+### 📈 This Month I spent my time on  
 
 | 💻 Tool / Language      | ⏱️ Time Spent | 📊 Progress   |
 | ----------------------- | ------------- | ------------- |
