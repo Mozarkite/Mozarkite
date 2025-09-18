@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Mozarkite/Mozarkite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! This is where I put up my projects and use GitHub as a portofolio display
 
-Here are some ideas to get you started:
+🎓 I'm Mihai Bartha, currently a 3rd-year Computer Science Infrastructure student at TU Dublin 💻  
+📘 Passionate about data, Analysis, and solving problems through insights and code 
+📊 Deeply interested in Exploratory Data Analysis (EDA), ML Concepts, and analytics  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mihai-bartha-492018340)
+---
+
+### 📈 This week I spent my time on  
+
+Python ██████████░░░░░░░░
+PowerBI █████████░░░░░░░░ 
+JupyterNotebook ██████████░░░░░░░ 
+SQL ██████░░░░░░░░░░ 
+Excel ████░░░░░░░░░░░░ 
+
+
+---
+
+### 🔧 Languages and Tools  
+- 💾 SQL, Python, PowerBI  
+- 📊 Excel, Jupyter Notebook  
+- 🛠️ Linux, Git, Bash
+
+---
+
+📬 Feel free to reach out if you want to collaborate or just chat tech!  
+Fun fact: I will climb mont blanc one day.
+
+
