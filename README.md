@@ -7,8 +7,9 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 - 📊 Deeply interested in Exploratory Data Analysis (EDA), ML Concepts, and analytics  
 
 ### 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mihai-bartha-492018340)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihai-bartha-492018340)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianmihaibartha@gmail.com)
+
 
 
 ---
