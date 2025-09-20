@@ -11,8 +11,11 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucianmihaibartha@gmail.com)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Data-Analytics-Machine-Learning-1862b372e7d6809da19ec6a8a56f520e)
 
+---
 
-
+### 📚 Currently Doing  
+- 📖 Reading *Advancing into Analytics* by George Mount  
+- 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**  
 
 ---
 
@@ -26,18 +29,14 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 | 🧮 **SQL**              | 45%           | ██████░░░░░░  |
 | 📉 **Excel**            | 30%           | ████░░░░░░░░  |
 
-
-
 ---
 
 ### 🔧 Languages and Tools  
 - 💾 SQL, Python, PowerBI  
 - 📊 Excel, Jupyter Notebook  
-- 🛠️ Linux, Git, Bash
+- 🛠️ Linux, Git, Bash  
 
 ---
 
 - 📬 Feel free to reach out if you want to collaborate or just chat tech!  
-- Fun fact: I will climb mont blanc one day.
-
-
+- Fun fact: I will climb mont blanc one day.  
