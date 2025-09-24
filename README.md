@@ -18,7 +18,6 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 - 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**
 - Databases Design and POSTGRESQL
 - Working on a web application using streamlit for a song reccomendation system through a spotify API
-- 
 
 ---
 
