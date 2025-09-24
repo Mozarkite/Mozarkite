@@ -35,7 +35,7 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 ---
 
 ### 🔧 Languages and Tools  
-- 💾 SQL, Python, PowerBI  
+- 💾 SQL, Python, Java, PowerBI  
 - 📊 Excel, Jupyter Notebook  
 - 🛠️ Linux, Git, Bash  
 
