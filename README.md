@@ -15,7 +15,10 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 
 ### 📚 Currently Doing  
 - 📖 Reading *Advancing into Analytics* by George Mount  
-- 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**  
+- 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**
+- Databases Design and POSTGRESQL
+- Working on a web application using streamlit for a song reccomendation system through a spotify API
+- 
 
 ---
 
@@ -28,6 +31,7 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 | 📓 **Jupyter Notebook** | 80%           | ███████████░  |
 | 🧮 **SQL**              | 45%           | ██████░░░░░░  |
 | 📉 **Excel**            | 30%           | ████░░░░░░░░  |
+
 
 ---
 
