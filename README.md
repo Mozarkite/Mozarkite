@@ -16,20 +16,20 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 ### 📚 Currently Doing  
 - 📖 Reading *Advancing into Analytics* by George Mount  
 - 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**
-- Databases Design and POSTGRESQL
 - Working on a web application using streamlit for a Movie Reccomendation system through an API (WIP)
 
 ---
 
-### 📈 This Month I spent my time on  
+### 📈 This Month I spent/spending my time on
 
-| 💻 Tool / Language      | ⏱️ Time Spent | 📊 Progress   |
-| ----------------------- | ------------- | ------------- |
-| 🐍 **Python**           | 70%           | ██████████░░░ |
-| 📊 **Power BI**         | 60%           | █████████░░░  |
-| 📓 **Jupyter Notebook** | 80%           | ███████████░  |
-| 🧮 **SQL**              | 45%           | ██████░░░░░░  |
-| 📉 **Excel**            | 30%           | ████░░░░░░░░  |
+| 💻 Tool / Language | ⏱️ Time Spent | 📊 Progress       |
+|--------------------|---------------|------------------|
+| 🐍 **Python**      | 70%           | ██████████░░░     |
+| 🌐 **Streamlit**   | 70%           | ██████████░░░     |
+| 🔗 **API**         | 60%           | ████████░░░░      |
+| 🗄️ **SQL**         | 45%           | ██████░░░░░░      |
+| 📊 **Power BI**    | 30%           | ████░░░░░░░░      |
+
 
 
 ---
@@ -37,7 +37,8 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 ### 🔧 Languages and Tools  
 - 💾 SQL, Python, Java, PowerBI  
 - 📊 Excel, Jupyter Notebook  
-- 🛠️ Linux, Git, Bash  
+- 🛠️ Linux, Git, Bash
+- Streamlit, APIs
 
 ---
 
