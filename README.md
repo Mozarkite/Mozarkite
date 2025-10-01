@@ -16,7 +16,6 @@ Welcome to my GitHub! This is where I put up my projects and use GitHub as a Dis
 ### 📚 Currently Doing  
 - 📖 Reading *Advancing into Analytics* by George Mount  
 - 📊 Progressing onto **Exploratory Data Analysis (EDA) in R**
-- Working on a web application using streamlit for a Movie Reccomendation system through an API (WIP)
 
 ---
 
